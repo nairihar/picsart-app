@@ -1,0 +1,8 @@
+{
+  "name": "picsart-app",
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-static.git"
+    }
+  ]
+}
